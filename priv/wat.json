@@ -1,0 +1,12 @@
+{
+  "scopes": {
+    "/site1": [
+      ["get", "/uri1", "DynamicRouting.PageController", "index"],
+      ["get", "/uri2", "DynamicRouting.PageController", "index"]
+    ],
+    "/site2": [
+      ["get", "/uri1", "DynamicRouting.PageController", "index"],
+      ["get", "/uri2", "DynamicRouting.PageController", "index"]
+    ]
+  }
+}
