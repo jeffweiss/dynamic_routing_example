@@ -1,5 +1,7 @@
 # DynamicRouting
 
+![Dynamic routes in action](https://github.com/jeffweiss/dynamic_routing_example/raw/master/docs/images/dynamic_routing.gif)
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
